@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+body {
+  background-color: rgb(41, 41, 41);
+}
+
+img {
+  width: 80%;
+}
+
+p {
+  color: rgb(179, 179, 179);
+  margin: 0px 0px 0px 20px;
+}
+
+h1 {
+  color: rgb(220, 220, 220);
+  font-size: 35px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+h2 {
+  color: rgb(220, 220, 220);
+  font-size: 25px;
+  font-weight: bold;
+  margin: 40px 0px 0px 10px;
+}
+
+h3 {
+  color: rgb(220, 220, 220);
+  font-size: 18px;
+  margin: 10px 0px 0px 0px;
+}
+
+h4 {
+  color: rgb(220, 220, 220);
+  font-size: 12px;
+  margin: 20px;
+}
+
+a {
+  color: rgb(152, 206, 155);
+}
+
+#about {
+  width: 95%;
+  display: flex;
+}
+
+#twitter {
+  margin: 5% 20%;
+}
+
+.about__txt {
+  width: 60%;
+}
+
+.about__img {
+  background-image: url("../images/about/profile.jpg");
+  width: 40%;
+  height: 600px;
+  margin-top: 35px;
+  background-size: 380%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+}
+
+.nav {
+  left: auto;
+}
+
+.jimg {
+  width: 300px;
+  margin: 10px 10px 20px 10px;
+}
+
+.d {
+  background-image: url("../images/about/profile.jpg");
+  height: 400px;
+  width: 300px;
+}
+
+.work1__img {
+  width: 400px;
+  padding: 20px;
+}
+
+.menu {
+  padding: 10px;
+}
